@@ -9,3 +9,5 @@ Rencana Belajar Farrel
 -all framework
 -python
 -all about webdev tech 
+framework front end
+framework backend
