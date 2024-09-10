@@ -1,14 +1,13 @@
 Rencana Belajar Farrel
 
--javascript
- *node js
- *react js
- *vue js
- *next js
--php
--all framework
--python
--all about webdev tech 
-framework front end
-framework backend
+-javascript framework
+ ^react js
+ ^node js
+ ^next js
+ 
 
+php framework
+ ^laravel
+ ^codeigniter
+ 
+python
