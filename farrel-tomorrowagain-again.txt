@@ -1,0 +1,11 @@
+Rencana Belajar Farrel
+
+-javascript
+ *node js
+ *react js
+ *vue js
+ *next js
+-php
+-all framework
+-python
+-all about webdev tech 
