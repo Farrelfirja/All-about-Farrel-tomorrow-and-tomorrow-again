@@ -12,3 +12,5 @@ Rencana Belajar Farrel
 framework front end
 framework backend
 
+framework front end javascript dan framework backend javascript
+
