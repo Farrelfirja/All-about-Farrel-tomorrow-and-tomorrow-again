@@ -3,9 +3,11 @@ Rencana Belajar Farrel
 -javascript framework
  ^react js
  ^node js
+ ^next js
  
 
 php framework
  ^laravel
+ ^codeigniter
  
 python
